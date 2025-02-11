@@ -16,3 +16,8 @@ Finding the innovative and smartest way using technology to reduce the food wast
 - Our app is designed with utmost accessibility, catering to the needs of both generous donors and the needy, making the process seamless and hassle-free. 
 - A database management system, where we gather real-time statistics, enabling us to analyze the app's impact and continuously improve user experiences.
 - Real Food, Real People: Snapshots of Wholesome Dishes from the Community.
+
+## Tech Stack:
+- Language: Java
+- Platform: Android Studio
+- Database:Firebase Realtime Database
